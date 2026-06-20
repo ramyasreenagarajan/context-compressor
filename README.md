@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Context%20Compressor&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Shrink%20Logs%2C%20Docs%20%26%20RAG%20Chunks%20Before%20They%20Hit%20Your%20LLM&descAlignY=62&descSize=15" width="100%"/>
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
