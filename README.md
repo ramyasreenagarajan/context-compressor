@@ -11,8 +11,6 @@
 
 **Cut LLM input tokens by 30–60% — without losing the information that matters**
 
-[Why This Matters](##-why-this-matters) · [Demo](##-demo) · [Installation](##️-installation) · [How it Works](#️#-how-it-works)
-
 </div>
 
 ---
