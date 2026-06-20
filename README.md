@@ -17,7 +17,7 @@
 
 ---
 
-## 🔥 Why This Matters
+##  Why This Matters
 
 **Context engineering is the dominant optimization pattern in AI agents right now.** As agent workflows pull in logs, tool outputs, and RAG chunks, raw context bloats fast — burning tokens, money, and the model's attention on noise instead of signal.
 
@@ -32,7 +32,7 @@ This tool sits between your data sources and your LLM call, automatically:
 
 ---
 
-## 📸 Demo
+##  Demo
 
 **Before (server logs):**
 ```
@@ -48,7 +48,7 @@ This tool sits between your data sources and your LLM call, automatically:
 ```
 
 ```
-📊 COMPRESSION REPORT
+ COMPRESSION REPORT
 ────────────────────────────────────────
   Detected type        : logs
   Original tokens      : 382
@@ -60,7 +60,7 @@ This tool sits between your data sources and your LLM call, automatically:
 
 ---
 
-## ⚙️ How it Works
+## How it Works
 
 ```
 ┌──────────────┐    ┌───────────────┐    ┌──────────────────┐
@@ -88,7 +88,7 @@ All compression is **rule-based and runs 100% locally** — no API key, no exter
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/ramyasreenagarajan/context-compressor.git
@@ -98,7 +98,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🖥️ Usage
+## Usage
 
 ### Web App
 ```bash
@@ -146,7 +146,7 @@ prompt = f"Context:\n{compressed['compressed_text']}\n\nQuestion: {query}"
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 context-compressor/
@@ -167,7 +167,7 @@ context-compressor/
 
 ---
 
-## 🧪 Tests
+## Tests
 
 ```bash
 python tests/test_compressor.py
@@ -176,7 +176,7 @@ python tests/test_compressor.py
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [ ] Add semantic deduplication using embeddings (catch paraphrased duplicates)
 - [ ] Token counting via `tiktoken` for exact (not estimated) counts
@@ -186,7 +186,7 @@ python tests/test_compressor.py
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Ramya Sree Nagarajan**
 MSc Artificial Intelligence · Royal Holloway, University of London
@@ -197,7 +197,7 @@ IEEE Published Researcher · Python · ML · Cybersecurity
 
 ---
 
-## 📄 License
+## License
 
 MIT License — see [LICENSE](LICENSE) for details.
 
