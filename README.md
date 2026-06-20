@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=160&amp;section=header&amp;text=Context%20Compressor&amp;fontSize=38&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Shrink%20Logs%2C%20Docs%20%26%20RAG%20Chunks%20Before%20They%20Hit%20Your%20LLM&amp;descAlignY=62&amp;descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=160&amp;section=header&amp;text=Context%20Compressor&amp;fontSize=38&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Shrink%20Context%20Before%20It%20Hits%20Your%20LLM&amp;descAlignY=62&amp;descSize=16" width="100%"/>
 
 <div align="center">
 
@@ -201,4 +201,4 @@ IEEE Published Researcher · Python · ML · Cybersecurity
 
 MIT License — see [LICENSE](LICENSE) for details.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer&amp;animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer&amp;animation=twinkling" width="100%"/>
